@@ -1,6 +1,3 @@
-# waam-sync-anomaly-framework
-Synchronization and anomaly detection framework for WAAM multi-stream data.
-
 # WAAM Sync + Anomaly Framework
 
 This repository contains a modular Python-based framework for synchronization, segmentation, and anomaly detection in Wire Arc Additive Manufacturing (WAAM) using multi-stream data (scanner, process logs, control commands).
